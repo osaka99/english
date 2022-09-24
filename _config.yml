@@ -1,0 +1,6 @@
+title: 英会話の足がかり
+remote_theme: rundocs/jekyll-rtd-theme
+google_analytics: G-2RTVST3JZV
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap

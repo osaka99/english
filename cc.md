@@ -4,8 +4,8 @@ title: 英語字幕ガイド
 description: 英語音声で英語字幕ガイド、クローズドキャプション(closed captioning、CC)の日本アニメを紹介します。
 lang: ja_JP
 author: osaka99
-date: 2022-09-23T22:00+09:00
-last_modified_at: 2022-09-23T22:00+09:00
+date: 2022-09-25T14:00+09:00
+last_modified_at: 2022-09-25T14:00+09:00
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RTVST3JZV"></script>
@@ -21,11 +21,15 @@ last_modified_at: 2022-09-23T22:00+09:00
 
 英語音声で英語字幕ガイド=クローズドキャプション(closed captioning、CC)を紹介します。これらは英語音声と英語字幕がほぼ一致するため、英語のヒアリング練習に向いています。(最終更新日:{{ page.last_modified_at | date: "%Y年%m月%d日" }})
 
+|更新日|内容|
+|--|--|
+|2022/09/25|3Dアニメ追加等|
+
 ## Netflix_日本アニメ_英語音声_英語字幕_CC
 
 |タイトル|説明|評価|外部|
 |--|--|--|--|
-|<!-- えっくすめん -->[X-MEN](https://www.netflix.com/title/70205688)|1～12話 ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/6919/X-Men)|
+|<!-- えっくすめん -->[X-MEN](https://www.netflix.com/title/70205688)|1～12話 ※要「英語(字幕ガイド)」選択 ※昔のものだからか音声と字幕がほとんど合っていない|★4|[1](https://myanimelist.net/anime/6919/X-Men)|
 |<!-- かけぐるい -->[賭ケグルイ](https://www.netflix.com/title/80175351)|(シーズン1)1～12話、(シーズン2)1～12話 ※要「英語(字幕ガイド)」選択|★8|[1](https://myanimelist.net/anime/34933/Kakegurui)、[2](https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97)|
 |<!-- かけぐるいついん -->[賭ケグルイ双](https://www.netflix.com/title/81176966)|1～6話 ※要「英語(字幕ガイド)」選択|★8|[1](https://myanimelist.net/anime/50339/Kakegurui_Twin)|
 |<!-- ごくしゅふどう -->[極主夫道](https://www.netflix.com/title/81261669)|1～10話 ※要「英語(字幕ガイド)」選択|★6|[1](https://myanimelist.net/anime/43692/Gokushufudou)、[2](https://myanimelist.net/anime/48707/Gokushufudou_Part_2)|
@@ -44,6 +48,7 @@ last_modified_at: 2022-09-23T22:00+09:00
 |<!-- びーすたーず -->[BEASTARS](https://www.netflix.com/title/81054847)|(シーズン2)1～12話 ※要「英語(字幕ガイド) ※シーズン1はCCではない|★7|[1](https://myanimelist.net/anime/39195/Beastars)、[2](https://myanimelist.net/anime/40935/Beastars_2nd_Season)|
 |<!-- びしょうじょせんしせーらーむーんくりすたる -->[美少女戦士セーラームーンCrystal](https://www.netflix.com/title/80145747)|(シーズン1)1～13話、(シーズン2)1～13話、(シーズン3)1～13話、 ※要「英語(字幕ガイド)」選択|★4|[1](https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal)、[2](https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III)|
 |<!-- やすけ -->[YASUKE -ヤスケ-](https://www.netflix.com/title/80990863)|(シーズン2)1～6話 ※要「英語(字幕ガイド)|★5|[1](https://myanimelist.net/anime/43697/Yasuke)|
+|<!-- りらっくまとゆうえんち -->[リラックマと遊園地](https://www.netflix.com/title/81341765)|3D 1～8話 ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/43694/Rilakkuma_to_Yuuenchi)|
 
 ※「タイトル」50音順、「評価」は管理人の個人的評価、「外部」はMyAnimeListへのリンク
 
@@ -53,6 +58,7 @@ last_modified_at: 2022-09-23T22:00+09:00
 |--|--|--|--|
 |<!-- あめをつげるひょうりゅうだんち -->[雨を告げる漂流団地](https://www.netflix.com/title/81328781)|2h ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/49938/Ame_wo_Tsugeru_Hyouryuu_Danchi)|
 |<!-- かみありづきのこども -->[神在月のこども](https://www.netflix.com/title/81478031)|1h39m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/41877/Kamiarizuki_no_Kodomo)|
+|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうごじぞくかのうせんそう -->[攻殻機動隊 SAC_2045 持続可能戦争](https://www.netflix.com/title/81513128)|3D 1h58m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/49402/Koukaku_Kidoutai__SAC_2045_-_Jizoku_Kanou_Sensou)|
 |<!-- たいがーあんどばにーざびぎにんぐ -->[TIGER & BUNNY The Beginning](https://www.netflix.com/title/81579322)|2012年 1h31m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning)|
 |<!-- たいがーあんどばにーざらいじんぐ -->[TIGER & BUNNY The Rising](https://www.netflix.com/title/81579323)|2014年 1h40m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising)|
 |<!-- ばぶる -->[バブル](https://www.netflix.com/title/81345945)|1h41m ※要「英語(字幕ガイド)」選択|★7|[1](https://myanimelist.net/anime/50549/Bubble)|
@@ -92,7 +98,9 @@ last_modified_at: 2022-09-23T22:00+09:00
 |<!-- えでん -->[EDEN](https://www.netflix.com/title/80992783)|&nbsp;|[1](https://myanimelist.net/anime/39728/Eden_ONA)|
 |<!-- えでんずぜろ -->[EDENS ZERO](https://www.netflix.com/title/81261630)|&nbsp;|[1](https://myanimelist.net/anime/42192/Edens_Zero)|
 |<!-- おうらんこうこうほすとくらぶ -->[桜蘭高校ホスト部](https://www.netflix.com/title/70205014)|&nbsp;|[1](https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club)|
+|<!-- おるたーどかーぼんりすりーぶど -->[オルタード・カーボン: リスリーブド](https://www.netflix.com/title/81001991)|3D 1h14m|[1](https://myanimelist.net/anime/40613/Altered_Carbon__Resleeved)|
 |<!-- おわりのせらふ -->[終わりのセラフ](https://www.netflix.com/title/80200989)|&nbsp;|[1](https://myanimelist.net/anime/26243/Owari_no_Seraph)、[2](https://myanimelist.net/anime/28927/Owari_no_Seraph__Nagoya_Kessen-hen)|
+|<!-- がんつおー -->[GANTZ:O](https://www.netflix.com/title/80149259)|3D 1h35m|[1](https://myanimelist.net/anime/32071/Gantz_O)|
 |<!-- きしべろはんはうごかない -->[岸辺露伴は動かない](https://www.netflix.com/title/81280998)|&nbsp;|[1](https://myanimelist.net/anime/33191/Kishibe_Rohan_wa_Ugokanai)|
 |<!-- きどうせんしがんだむぎゃくしゅうのしゃあ -->[機動戦士ガンダム 逆襲のシャア](https://www.netflix.com/title/60024179)|1h59m|[1](https://myanimelist.net/anime/87/Mobile_Suit_Gundam__Chars_Counterattack)|
 |<!-- きゃのんばすたーず -->[キャノン・バスターズ](https://www.netflix.com/title/80195357)|&nbsp;|[1](https://myanimelist.net/anime/40256/Cannon_Busters)|
@@ -102,6 +110,7 @@ last_modified_at: 2022-09-23T22:00+09:00
 |<!-- ぐれーとぷりてんだー -->[GREAT PRETENDER](https://www.netflix.com/title/81220435)|&nbsp;|[1](https://myanimelist.net/anime/40052/Great_Pretender)|
 |<!-- くろむくろ -->[クロムクロ](https://www.netflix.com/title/80103318)|&nbsp;|[1](https://myanimelist.net/anime/32245/Kuromukuro)|
 |<!-- けんがんあしゅら -->[ケンガンアシュラ](https://www.netflix.com/title/80992228)|&nbsp;|[1](https://myanimelist.net/anime/36903/Kengan_Ashura)、[2](https://myanimelist.net/anime/40269/Kengan_Ashura_Part_2)|
+|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうご -->[攻殻機動隊 SAC_2045](https://www.netflix.com/title/81030224)|3D|[1](https://myanimelist.net/anime/38799/Koukaku_Kidoutai__SAC_2045)、[2](https://myanimelist.net/anime/41750/Koukaku_Kidoutai__SAC_2045_Season_2)|
 |<!-- こうてつじょうのかばねりかいもんけっせん -->[甲鉄城のカバネリ 海門決戦](https://www.netflix.com/title/81095103)|&nbsp;|[1](https://myanimelist.net/anime/33519/Koutetsujou_no_Kabaneri_Movie_1__Tsudou_Hikari)、[2](https://myanimelist.net/anime/33520/Koutetsujou_no_Kabaneri_Movie_2__Moeru_Inochi)、[3](https://myanimelist.net/anime/34544/Koutetsujou_no_Kabaneri_Movie_3__Unato_Kessen)|
 |<!-- こえのかたち -->[聲の形](https://www.netflix.com/title/80223226)|2h9m|[1](https://myanimelist.net/anime/28851/Koe_no_Katachi)|
 |<!-- ごじらかいじゅうわくせい -->[GODZILLA 怪獣惑星](https://www.netflix.com/title/80180373)|1 1h28m|[1](https://myanimelist.net/anime/33783/Godzilla_1__Kaijuu_Wakusei)|
@@ -136,6 +145,7 @@ last_modified_at: 2022-09-23T22:00+09:00
 |<!-- なきたいわたしはねこをかぶる -->[泣きたい私は猫をかぶる](https://www.netflix.com/title/81281872)|1h45m|[1](https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu)|
 |<!-- ななつのたいざいひかりにのろわれしものたち -->[七つの大罪 光に呪われし者たち](https://www.netflix.com/title/81263946)|2021年 1h19m|[1](https://myanimelist.net/anime/46420/Nanatsu_no_Taizai_Movie_2__Hikari_ni_Norowareshi_Mono-tachi)|
 |<!-- にほんちんぼつにーぜろにーぜろ -->[日本沈没2020](https://www.netflix.com/title/80993018)|&nbsp;|[1](https://myanimelist.net/anime/40515/Nihon_Chinbotsu_2020)|
+|<!-- にんじゃばっとまん -->[ニンジャバットマン](https://www.netflix.com/title/80244455)|1h25m|[1](https://myanimelist.net/anime/36517/Ninja_Batman)|
 |<!-- ばっくすとりーとがーるずごくどるず -->[Back Street Girls -ゴクドルズ-](https://www.netflix.com/title/80996957)|&nbsp;|[1](https://myanimelist.net/anime/36873/Back_Street_Girls__Gokudolls)|
 |<!-- ぴあののもり -->[ピアノの森](https://www.netflix.com/title/80986797)|&nbsp;|[1](https://myanimelist.net/anime/36652/Piano_no_Mori_TV)、[2](https://myanimelist.net/anime/37975/Piano_no_Mori_TV_2nd_Season)|
 |<!-- びーえぬえー -->[BNA ビー・エヌ・エー](https://www.netflix.com/title/81220429)|&nbsp;|[1](https://myanimelist.net/anime/40060/BNA)|

@@ -4,8 +4,8 @@ title: Netflixの日本アニメを英語音声で聞き英語字幕で確認す
 description: Netflixの日本アニメを英語音声で聞くための一覧です。英語字幕ガイド、クローズドキャプション(closed captioning、CC)がおすすめです。
 lang: ja_JP
 author: osaka99
-date: 2022-09-26T20:00+09:00
-last_modified_at: 2022-09-26T20:00+09:00
+date: 2022-10-01T16:00+09:00
+last_modified_at: 2022-10-01T16:00+09:00
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RTVST3JZV"></script>
@@ -23,6 +23,7 @@ last_modified_at: 2022-09-26T20:00+09:00
 
 |更新日|内容|
 |--|--|
+|2022/10/01|「ひぐらしのなく頃に」を削除(Netflix視聴対象外)|
 |2022/09/25|3Dアニメ追加等|
 
 ## Netflix_日本アニメ_英語音声_英語字幕_CC
@@ -48,7 +49,8 @@ last_modified_at: 2022-09-26T20:00+09:00
 |<!-- びーすたーず -->[BEASTARS](https://www.netflix.com/title/81054847)|(シーズン2)1～12話 ※要「英語(字幕ガイド) ※シーズン1はCCではない|★7|[1](https://myanimelist.net/anime/39195/Beastars)、[2](https://myanimelist.net/anime/40935/Beastars_2nd_Season)|
 |<!-- びしょうじょせんしせーらーむーんくりすたる -->[美少女戦士セーラームーンCrystal](https://www.netflix.com/title/80145747)|(シーズン1)1～13話、(シーズン2)1～13話、(シーズン3)1～13話、 ※要「英語(字幕ガイド)」選択|★4|[1](https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal)、[2](https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III)|
 |<!-- やすけ -->[YASUKE -ヤスケ-](https://www.netflix.com/title/80990863)|1～6話 ※要「英語(字幕ガイド)|★5|[1](https://myanimelist.net/anime/43697/Yasuke)|
-|<!-- りらっくまとゆうえんち -->[リラックマと遊園地](https://www.netflix.com/title/81341765)|3D 1～8話 ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/43694/Rilakkuma_to_Yuuenchi)|
+|<!-- りらっくまとゆうえんち -->[リラックマと遊園地](https://www.netflix.com/title/81341765)|3D 1～8話 ※要「英語(字幕ガイド)」選択|★5|[1](https://myanimelist.net/anime/43694/Rilakkuma_to_Yuuenchi)|
+|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうご -->[攻殻機動隊 SAC_2045](https://www.netflix.com/title/81030224)|3D (シーズン2)1～12話 ※要「英語(字幕ガイド) ※シーズン1はCCではない|★5|[1](https://myanimelist.net/anime/38799/Koukaku_Kidoutai__SAC_2045)、[2](https://myanimelist.net/anime/41750/Koukaku_Kidoutai__SAC_2045_Season_2)|
 
 ※「タイトル」50音順、「評価」は管理人の個人的評価、「外部」はMyAnimeListへのリンク
 
@@ -56,11 +58,11 @@ last_modified_at: 2022-09-26T20:00+09:00
 
 |タイトル|説明|評価|外部|
 |--|--|--|--|
-|<!-- あめをつげるひょうりゅうだんち -->[雨を告げる漂流団地](https://www.netflix.com/title/81328781)|2h ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/49938/Ame_wo_Tsugeru_Hyouryuu_Danchi)|
-|<!-- かみありづきのこども -->[神在月のこども](https://www.netflix.com/title/81478031)|1h39m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/41877/Kamiarizuki_no_Kodomo)|
-|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうごじぞくかのうせんそう -->[攻殻機動隊 SAC_2045 持続可能戦争](https://www.netflix.com/title/81513128)|3D 1h58m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/49402/Koukaku_Kidoutai__SAC_2045_-_Jizoku_Kanou_Sensou)|
-|<!-- たいがーあんどばにーざびぎにんぐ -->[TIGER & BUNNY The Beginning](https://www.netflix.com/title/81579322)|2012年 1h31m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning)|
-|<!-- たいがーあんどばにーざらいじんぐ -->[TIGER & BUNNY The Rising](https://www.netflix.com/title/81579323)|2014年 1h40m ※要「英語(字幕ガイド)」選択|未|[1](https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising)|
+|<!-- あめをつげるひょうりゅうだんち -->[雨を告げる漂流団地](https://www.netflix.com/title/81328781)|2h ※要「英語(字幕ガイド)」選択|★7|[1](https://myanimelist.net/anime/49938/Ame_wo_Tsugeru_Hyouryuu_Danchi)|
+|<!-- かみありづきのこども -->[神在月のこども](https://www.netflix.com/title/81478031)|1h39m ※要「英語(字幕ガイド)」選択|★6|[1](https://myanimelist.net/anime/41877/Kamiarizuki_no_Kodomo)|
+|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうごじぞくかのうせんそう -->[攻殻機動隊 SAC_2045 持続可能戦争](https://www.netflix.com/title/81513128)|3D 1h58m ※要「英語(字幕ガイド)」選択|★5|[1](https://myanimelist.net/anime/49402/Koukaku_Kidoutai__SAC_2045_-_Jizoku_Kanou_Sensou)|
+|<!-- たいがーあんどばにーざびぎにんぐ -->[TIGER & BUNNY The Beginning](https://www.netflix.com/title/81579322)|2012年 1h31m ※要「英語(字幕ガイド)」選択|★7|[1](https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning)|
+|<!-- たいがーあんどばにーざらいじんぐ -->[TIGER & BUNNY The Rising](https://www.netflix.com/title/81579323)|2014年 1h40m ※要「英語(字幕ガイド)」選択|★7|[1](https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising)|
 |<!-- ばぶる -->[バブル](https://www.netflix.com/title/81345945)|1h41m ※要「英語(字幕ガイド)」選択|★7|[1](https://myanimelist.net/anime/50549/Bubble)|
 
 ※「タイトル」50音順、「評価」は管理人の個人的評価、「外部」はMyAnimeListへのリンク
@@ -110,7 +112,6 @@ last_modified_at: 2022-09-26T20:00+09:00
 |<!-- ぐれーとぷりてんだー -->[GREAT PRETENDER](https://www.netflix.com/title/81220435)|&nbsp;|[1](https://myanimelist.net/anime/40052/Great_Pretender)|
 |<!-- くろむくろ -->[クロムクロ](https://www.netflix.com/title/80103318)|&nbsp;|[1](https://myanimelist.net/anime/32245/Kuromukuro)|
 |<!-- けんがんあしゅら -->[ケンガンアシュラ](https://www.netflix.com/title/80992228)|&nbsp;|[1](https://myanimelist.net/anime/36903/Kengan_Ashura)、[2](https://myanimelist.net/anime/40269/Kengan_Ashura_Part_2)|
-|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうご -->[攻殻機動隊 SAC_2045](https://www.netflix.com/title/81030224)|3D|[1](https://myanimelist.net/anime/38799/Koukaku_Kidoutai__SAC_2045)、[2](https://myanimelist.net/anime/41750/Koukaku_Kidoutai__SAC_2045_Season_2)|
 |<!-- こうてつじょうのかばねりかいもんけっせん -->[甲鉄城のカバネリ 海門決戦](https://www.netflix.com/title/81095103)|&nbsp;|[1](https://myanimelist.net/anime/33519/Koutetsujou_no_Kabaneri_Movie_1__Tsudou_Hikari)、[2](https://myanimelist.net/anime/33520/Koutetsujou_no_Kabaneri_Movie_2__Moeru_Inochi)、[3](https://myanimelist.net/anime/34544/Koutetsujou_no_Kabaneri_Movie_3__Unato_Kessen)|
 |<!-- こえのかたち -->[聲の形](https://www.netflix.com/title/80223226)|2h9m|[1](https://myanimelist.net/anime/28851/Koe_no_Katachi)|
 |<!-- ごじらかいじゅうわくせい -->[GODZILLA 怪獣惑星](https://www.netflix.com/title/80180373)|1 1h28m|[1](https://myanimelist.net/anime/33783/Godzilla_1__Kaijuu_Wakusei)|
@@ -150,7 +151,6 @@ last_modified_at: 2022-09-26T20:00+09:00
 |<!-- ぴあののもり -->[ピアノの森](https://www.netflix.com/title/80986797)|&nbsp;|[1](https://myanimelist.net/anime/36652/Piano_no_Mori_TV)、[2](https://myanimelist.net/anime/37975/Piano_no_Mori_TV_2nd_Season)|
 |<!-- びーえぬえー -->[BNA ビー・エヌ・エー](https://www.netflix.com/title/81220429)|&nbsp;|[1](https://myanimelist.net/anime/40060/BNA)|
 |<!-- ひーろーますく -->[HERO MASK](https://www.netflix.com/title/80200027)|&nbsp;|[1](https://myanimelist.net/anime/38628/Hero_Mask)、[2](https://myanimelist.net/anime/40154/Hero_Mask_2nd_Season)|
-|<!-- ひぐらしのなくころに -->[ひぐらしのなく頃に](https://www.netflix.com/title/70308793)|シーズン1のみ英語音声+英語字幕|[1](https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni)、[2](https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai)、[3](https://myanimelist.net/anime/3652/Higurashi_no_Naku_Koro_ni_Rei)、[4](https://myanimelist.net/anime/10491/Higurashi_no_Naku_Koro_ni_Kira)|
 |<!-- びしょうじょせんしせーらーむーんえたーなる -->[美少女戦士セーラームーン Eternal](https://www.netflix.com/title/81214399)|&nbsp;|[1](https://myanimelist.net/anime/40024/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_1)、[2](https://myanimelist.net/anime/40429/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_2)|
 |<!-- ふぇありーている -->[FAIRY TAIL](https://www.netflix.com/title/70266998)|シーズン3の途中まで英語音声+英語字幕(エピソード100まで)|[1](https://myanimelist.net/anime/6702/Fairy_Tail)、[2](https://myanimelist.net/anime/22043/Fairy_Tail_2014)、[3](https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series)|
 |<!-- ふぇいとあぽくりふぁ -->[Fate/Apocrypha](https://www.netflix.com/title/80180849)|&nbsp;|[1](https://myanimelist.net/anime/34662/Fate_Apocrypha)|

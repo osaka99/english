@@ -4,8 +4,8 @@ title: Netflixの日本アニメを英語音声で聞き英語字幕で確認す
 description: Netflixの日本アニメを英語音声で聞くための一覧です。英語字幕ガイド、クローズドキャプション(closed captioning、CC)がおすすめです。
 lang: ja_JP
 author: osaka99
-date: 2022-10-01T16:00+09:00
-last_modified_at: 2022-10-01T16:00+09:00
+date: 2022-10-16T17:45+09:00
+last_modified_at: 2022-10-16T17:45+09:00
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RTVST3JZV"></script>
@@ -23,6 +23,7 @@ last_modified_at: 2022-10-01T16:00+09:00
 
 |更新日|内容|
 |--|--|
+|2022/10/16|「エクセプション」追加|
 |2022/10/01|「ひぐらしのなく頃に」を削除(Netflix視聴対象外)|
 |2022/09/25|3Dアニメ追加等|
 
@@ -30,9 +31,11 @@ last_modified_at: 2022-10-01T16:00+09:00
 
 |タイトル|説明|評価|外部|
 |--|--|--|--|
+|<!-- えくせぷしょん -->[エクセプション](https://www.netflix.com/title/81002444)|3D。一応国内アニメ扱い。1～8話 ※要「英語(字幕ガイド)」選択|★5|[1](https://myanimelist.net/anime/49163/Exception)|
 |<!-- えっくすめん -->[X-MEN](https://www.netflix.com/title/70205688)|1～12話 ※要「英語(字幕ガイド)」選択 ※昔のものだからか音声と字幕がほとんど合っていない|★4|[1](https://myanimelist.net/anime/6919/X-Men)|
 |<!-- かけぐるい -->[賭ケグルイ](https://www.netflix.com/title/80175351)|(シーズン1)1～12話、(シーズン2)1～12話 ※要「英語(字幕ガイド)」選択|★8|[1](https://myanimelist.net/anime/34933/Kakegurui)、[2](https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97)|
 |<!-- かけぐるいついん -->[賭ケグルイ双](https://www.netflix.com/title/81176966)|1～6話 ※要「英語(字幕ガイド)」選択|★8|[1](https://myanimelist.net/anime/50339/Kakegurui_Twin)|
+|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうご -->[攻殻機動隊 SAC_2045](https://www.netflix.com/title/81030224)|3D (シーズン2)1～12話 ※要「英語(字幕ガイド) ※シーズン1はCCではない|★5|[1](https://myanimelist.net/anime/38799/Koukaku_Kidoutai__SAC_2045)、[2](https://myanimelist.net/anime/41750/Koukaku_Kidoutai__SAC_2045_Season_2)|
 |<!-- ごくしゅふどう -->[極主夫道](https://www.netflix.com/title/81261669)|1～10話 ※要「英語(字幕ガイド)」選択|★6|[1](https://myanimelist.net/anime/43692/Gokushufudou)、[2](https://myanimelist.net/anime/48707/Gokushufudou_Part_2)|
 |<!-- こたろーはひとりぐらし -->[コタローは1人暮らし](https://www.netflix.com/title/81275353)|1～10話 ※要「英語(字幕ガイド)」選択|★6|[1](https://myanimelist.net/anime/49909/Kotarou_wa_Hitorigurashi)|
 |<!-- こみさんはこみゅしょうです -->[古見さんは、コミュ症です。](https://www.netflix.com/title/81228573)|1～12話 ※要「英語」選択 ※13～24話はCCではない|★10|[1](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)、[2](https://myanimelist.net/anime/50631/Komi-san_wa_Comyushou_desu_2nd_Season)|
@@ -50,7 +53,6 @@ last_modified_at: 2022-10-01T16:00+09:00
 |<!-- びしょうじょせんしせーらーむーんくりすたる -->[美少女戦士セーラームーンCrystal](https://www.netflix.com/title/80145747)|(シーズン1)1～13話、(シーズン2)1～13話、(シーズン3)1～13話、 ※要「英語(字幕ガイド)」選択|★4|[1](https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal)、[2](https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III)|
 |<!-- やすけ -->[YASUKE -ヤスケ-](https://www.netflix.com/title/80990863)|1～6話 ※要「英語(字幕ガイド)|★5|[1](https://myanimelist.net/anime/43697/Yasuke)|
 |<!-- りらっくまとゆうえんち -->[リラックマと遊園地](https://www.netflix.com/title/81341765)|3D 1～8話 ※要「英語(字幕ガイド)」選択|★5|[1](https://myanimelist.net/anime/43694/Rilakkuma_to_Yuuenchi)|
-|<!-- こうかくきどうたいすたんどあろーんこんぷれっくすにせんよんじゅうご -->[攻殻機動隊 SAC_2045](https://www.netflix.com/title/81030224)|3D (シーズン2)1～12話 ※要「英語(字幕ガイド) ※シーズン1はCCではない|★5|[1](https://myanimelist.net/anime/38799/Koukaku_Kidoutai__SAC_2045)、[2](https://myanimelist.net/anime/41750/Koukaku_Kidoutai__SAC_2045_Season_2)|
 
 ※「タイトル」50音順、「評価」は管理人の個人的評価、「外部」はMyAnimeListへのリンク
 

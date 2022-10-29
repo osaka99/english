@@ -4,8 +4,8 @@ title: Netflixの日本アニメを英語音声で聞き英語字幕で確認す
 description: Netflixの日本アニメを英語音声で聞くための一覧です。英語字幕ガイド、クローズドキャプション(closed captioning、CC)がおすすめです。
 lang: ja_JP
 author: osaka99
-date: 2022-10-16T17:45+09:00
-last_modified_at: 2022-10-16T17:45+09:00
+date: 2022-10-29T23:00+09:00
+last_modified_at: 2022-10-29T23:00+09:00
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RTVST3JZV"></script>
@@ -23,9 +23,9 @@ last_modified_at: 2022-10-16T17:45+09:00
 
 |更新日|内容|
 |--|--|
+|2022/10/29|「ロマンティック・キラー」追加|
 |2022/10/16|「エクセプション」追加|
 |2022/10/01|「ひぐらしのなく頃に」を削除(Netflix視聴対象外)|
-|2022/09/25|3Dアニメ追加等|
 
 ## Netflix_日本アニメ_英語音声_英語字幕_CC
 
@@ -53,6 +53,7 @@ last_modified_at: 2022-10-16T17:45+09:00
 |<!-- びしょうじょせんしせーらーむーんくりすたる -->[美少女戦士セーラームーンCrystal](https://www.netflix.com/title/80145747)|(シーズン1)1～13話、(シーズン2)1～13話、(シーズン3)1～13話、 ※要「英語(字幕ガイド)」選択|★4|[1](https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal)、[2](https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III)|
 |<!-- やすけ -->[YASUKE -ヤスケ-](https://www.netflix.com/title/80990863)|1～6話 ※要「英語(字幕ガイド)|★5|[1](https://myanimelist.net/anime/43697/Yasuke)|
 |<!-- りらっくまとゆうえんち -->[リラックマと遊園地](https://www.netflix.com/title/81341765)|3D 1～8話 ※要「英語(字幕ガイド)」選択|★5|[1](https://myanimelist.net/anime/43694/Rilakkuma_to_Yuuenchi)|
+|<!-- ろまんてぃっくきらー -->[ロマンティック・キラー](https://www.netflix.com/title/81318888)|1～12話 ※要「英語(字幕ガイド)」選択|★10|[1](https://myanimelist.net/anime/52865/Romantic_Killer)|
 
 ※「タイトル」50音順、「評価」は管理人の個人的評価、「外部」はMyAnimeListへのリンク
 
